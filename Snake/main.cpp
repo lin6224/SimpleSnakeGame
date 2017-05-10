@@ -11,11 +11,13 @@ void Setup()
 }
 
 // to draw the grapic for the snake in the square
+
 void Draw()
 {
 
 }
 
+// to make the snake where to walk
 void Input()
 {
 
