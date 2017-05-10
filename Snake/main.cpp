@@ -10,6 +10,7 @@ void Setup()
 	gameOver = false;
 }
 
+// to draw the grapic for the snake in the square
 void Draw()
 {
 
